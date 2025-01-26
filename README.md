@@ -22,10 +22,6 @@ This repository contains a convolutional neural network (CNN) model specifically
 3. Run the Model:  
     Use the provided Jupyter Notebook main.ipynb to train or evaluate the model.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
